@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-class NotFoundPage extends React.Component{
+class PageNotFound extends React.Component{
     render(){
         return <div className="container bg-primary p-5 rounded" style={{height: "400px"}}>
             <p style={{textAlign:"center", color:"white", paddingBottom: "100px"}}>
@@ -21,4 +21,4 @@ class NotFoundPage extends React.Component{
           </div>;
     }
 }
-export default NotFoundPage;
+export default PageNotFound;
