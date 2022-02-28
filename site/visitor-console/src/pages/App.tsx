@@ -7,7 +7,7 @@ import LocationSelection from "./LocationSelection";
 import SignInSuccess from "./SignInSuccess";
 import SignIn from "./SignIn";
 import SignInError from "./SignInError";
-import PageNotFound from "./PageNotFound";
+import PageNotFound from "./NotFoundPage";
 
 const App = () => {
   return (
