@@ -1,5 +1,4 @@
 import { Routes, Route } from "react-router-dom";
-
 import { locations } from "../library/constants";
 
 import Registration from "./Registration";
